@@ -1,0 +1,5 @@
+Gopkg.lock
+deployment.zip
+main
+vendor
+vendor/*
